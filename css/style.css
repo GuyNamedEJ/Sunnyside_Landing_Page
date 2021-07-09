@@ -144,17 +144,19 @@ nav {
     width:50%;
     height: 600px;
     padding:50px 190px;
-    color:var(--graphic-design-text);
+    
 }
 
 #graphic-design{
     width: 50%;
     background:url("/images/desktop/image-graphic-design.jpg") no-repeat center/cover;
+    color:var(--graphic-design-text);
 }
 
 #photography{
     width:50%;
     background:url("/images/desktop/image-photography.jpg") no-repeat center/cover;
+    color:var(--photography-text);
 }
 .service-title{
     font-family: var(--fraunces);
